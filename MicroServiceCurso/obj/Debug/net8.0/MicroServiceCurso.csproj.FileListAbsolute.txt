@@ -30,3 +30,4 @@ K:\RepositorioPracticas\MicroServiceCurso\MicroServiceCurso\obj\Debug\net8.0\ref
 K:\RepositorioPracticas\MicroServiceCurso\MicroServiceCurso\obj\Debug\net8.0\MicroServiceCurso.pdb
 K:\RepositorioPracticas\MicroServiceCurso\MicroServiceCurso\obj\Debug\net8.0\MicroServiceCurso.genruntimeconfig.cache
 K:\RepositorioPracticas\MicroServiceCurso\MicroServiceCurso\obj\Debug\net8.0\ref\MicroServiceCurso.dll
+K:\RepositorioPracticas\MicroServiceCurso\MicroServiceCurso\obj\Debug\net8.0\MicroServiceCurso.sourcelink.json
